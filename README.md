@@ -14,9 +14,9 @@ You can find the right values in Vault under:
 
 #### Known Bugs
 
-The reservation search doesn't work with Stage2 region names at this time.
+The reservation search doesn't work with Staging region names at this time.
 
-`dhcli res S2R4`
+`dhcli res STAGEXY`
 
 ## Production releases
 
