@@ -1,0 +1,40 @@
+# Editors
+.idea/
+.nova/
+*.swp
+*.sublime*
+
+# MacOS
+**/.DS_Store
+
+# Build artifacts
+bin/
+build/
+artifacts/
+
+# Code coverage
+*.coverage
+coverage
+coverage.data
+
+# Misc
+tmp/
+node_modules/
+.sass-cache/
+*-packr.go
+public/assets/
+.vscode/
+.grifter/
+.env
+*.pid
+.svn
+.console_history
+.sass-cache/*
+.jhw-cache/
+jhw.*
+dist/
+generated/
+.vendor/
+.version
+**/*.log
+**/*.sqlite
